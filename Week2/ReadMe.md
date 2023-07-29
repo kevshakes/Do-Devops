@@ -20,5 +20,8 @@
 * step 3; Query the table and Remove an item
 * step 4; Delete the table
 
-Week 2 Link: https://do-devops-projects.readthedocs.io/en/latest/week2/week2/ 
+## Week 2 Link: https://do-devops-projects.readthedocs.io/en/latest/week2/week2/ 
 
+## Link to the Log File used to test the scripts: https://github.com/logpai/loghub/tree/master/Linux
+
+## Check the Screenshots folder that shows the working of task 4
